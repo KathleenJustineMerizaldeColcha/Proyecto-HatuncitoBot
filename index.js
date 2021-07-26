@@ -21,7 +21,7 @@ app.post("/", express.json(), (req, res) => {
             "type": "description",
             "title": "Cursos ofertados y certificaciones:",
             "text": [
-              "La escuela Hatun Yanuna oferta capacitaciones presenciales cortas y para certificación de chef panadero-pastelero; basados en procesos y técnicas modernas que permitirán desempeñarte como ayudante de pastelería y panadería en los diferentes restaurantes, hoteles, cruceros, empresas de alimentación industrial o empresas de banquetes, etc.",
+              "La escuela Hatun Yanuna oferta capacitaciones presenciales cortas y capacitaciones para certificación de chef panadero-pastelero; basados en procesos y técnicas modernas que permitirán desempeñarte como ayudante de pastelería y panadería en los diferentes restaurantes, hoteles, cruceros, empresas de alimentación industrial o empresas de banquetes, etc.",
             ],
 
           }
